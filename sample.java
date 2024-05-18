@@ -6,5 +6,5 @@ class Helloworld
     System.out.printIn("Java Sample Code that runs from Jenkins.");
       }
   };
-//execute java file today with build step.
-//this is the demo before adding build step.
+//Execute java file today with build step.
+//This is the demo before adding build step.
